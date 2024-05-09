@@ -19,7 +19,7 @@ const Contact = () => {
                 <div className="contact__lines top" aria-hidden="true">
                     <span className="line"></span>
                     <span className="line"></span>
-                    <span clasName="line"></span>
+                    <span className="line"></span>
                     <span className="line"></span>
                     <span className="line"></span>
                     <span className="line"></span>
