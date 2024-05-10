@@ -2,11 +2,7 @@ import React from "react"
 
 import about from "../assets/img/about.jpg";
 
-const introText = {
-    title: "port developer",
-    desc : ["talent is", "found at the end of the", "effort"]
-
-} 
+import { introText  } from "../constants";
 
 const Intro = () => {
   return (
@@ -48,4 +44,4 @@ const Intro = () => {
   )
 }
 
-export default Intro
+export default Intro;
